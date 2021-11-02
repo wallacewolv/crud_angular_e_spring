@@ -1,4 +1,5 @@
-[{
+[
+  {
     "_id": "1",
     "name": "Angular",
     "category": "front-end"
@@ -6,6 +7,16 @@
   {
     "_id": "2",
     "name": "Spring Boot",
+    "category": "back-end"
+  },
+  {
+    "_id": "3",
+    "name": "React",
+    "category": "front-end"
+  },
+  {
+    "_id": "5",
+    "name": "Arsenal",
     "category": "back-end"
   }
 ]
